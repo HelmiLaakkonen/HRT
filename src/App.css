@@ -1,0 +1,29 @@
+.tausta {
+  margin: 30px;
+  background-color: rgb(251, 251, 229);
+}
+
+div {
+  margin-bottom:20px;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+}
+
+button {
+  background-color: palegoldenrod;
+  border-color: white;
+  color: white;
+}
+
+h1 {
+  font-family: cursive;
+  color: palegoldenrod;
+}
+
+p {
+  font-family: cursive;
+  color: rgb(219, 213, 154);
+}
